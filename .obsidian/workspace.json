@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术笔记/Jenkins｜安装教程.md",
+                "file": "Journal/2025-04-23.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Jenkins｜安装教程"
+              "title": "2025-04-23"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 227.5
   },
   "right": {
     "id": "bafe113e4ff30c54",
@@ -170,16 +170,21 @@
   },
   "active": "8c5b4b0473b04efe",
   "lastOpenFiles": [
-    "技术笔记/PyTorch｜安装教程.md",
-    "技术笔记/Jenkins｜安装教程.md",
-    "2025-04-23.md",
-    "技术笔记/cuDNN｜Windows安装教程.md",
-    "技术笔记/CUDA｜Windows安装教程.md",
+    "obsidian_data/20250401/软测面经.md",
+    "obsidian_data/20250401/欢迎.md",
+    "obsidian_data/20250401/荷兰鼠鼠面经.md",
+    "obsidian_data/软测面经2.pdf",
+    "obsidian_data/软测面经.pdf",
+    "obsidian_data/软测面经1.pdf",
     "未命名 1.md",
     "未命名.md",
-    "obsidian_data/20250401/荷兰鼠鼠面经.md",
-    "技术笔记",
-    "obsidian_data/20250401/软测面经.md",
-    "obsidian_data/20250401/欢迎.md"
+    "README.md",
+    "Journal/2025-04-23.md",
+    "技术笔记/Jenkins｜安装教程.md",
+    "Journal",
+    "技术笔记/PyTorch｜安装教程.md",
+    "技术笔记/cuDNN｜Windows安装教程.md",
+    "技术笔记/CUDA｜Windows安装教程.md",
+    "技术笔记"
   ]
 }
