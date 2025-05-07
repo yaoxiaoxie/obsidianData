@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术笔记/长文本文件转为可视化网页.md",
-                "mode": "source",
+                "file": "技术笔记/Jenkins l Docker安装教程.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "长文本文件转为可视化网页"
+              "title": "Jenkins l Docker安装教程"
             }
           }
         ]
@@ -183,9 +183,13 @@
   },
   "active": "1c639ed8b34bd4eb",
   "lastOpenFiles": [
-    "技术笔记/cuDNN｜Windows安装教程.md",
-    "技术笔记/长文本文件转为可视化网页.md",
+    "技术笔记/Jenkins｜安装教程.md",
+    "技术笔记/Jenkins l Docker安装教程.md",
+    "技术笔记/Jenkisn l Windows安装教程.md",
+    "技术笔记/MCP l 长文本文件转为可视化网页.md",
+    "技术笔记/PyTorch｜安装教程.md",
     "技术笔记/CUDA｜Windows安装教程.md",
+    "技术笔记/cuDNN｜Windows安装教程.md",
     "Journal/mode.md",
     "obsidian_data/20250401/欢迎.md",
     "obsidian_data/20250401/荷兰鼠鼠面经.md",
@@ -193,8 +197,6 @@
     "obsidian_data/软测面经.pdf",
     "Journal/2025-04-23.md",
     "Heart Journey/故她在.md",
-    "技术笔记/PyTorch｜安装教程.md",
-    "技术笔记/Jenkins｜安装教程.md",
     "Heart Journey",
     "未命名 1.md",
     "obsidian_data/软测面经2.pdf",
