@@ -4,21 +4,21 @@
 
 安装成功后电脑会重启。
 
-![image.png](https://i-blog.csdnimg.cn/blog_migrate/f542c66b4c1bfd52709a203a97d39e6f.png)
+![[技术笔记/_resources/Jenkins l Docker安装教程/ea2de6309f6931f9b194f2758079a217_MD5.png]]
 
 打开docker桌面端，会显示
 
-![image.png](https://i-blog.csdnimg.cn/blog_migrate/7dbd8f35f5c95d121560bad5c8943a79.png)
+![[技术笔记/_resources/Jenkins l Docker安装教程/c51b250738e7625aa7bdf7d11400fed4_MD5.png]]
 
 进入链接，下载[WSL](https://so.csdn.net/so/search?q=WSL&spm=1001.2101.3001.7020) 安装包进行无脑安装即可。
 
-![image.png](https://i-blog.csdnimg.cn/blog_migrate/fd8ec23931aae3122e563e555f2f93e3.png)
+![[技术笔记/_resources/Jenkins l Docker安装教程/eaa2110e82c96b6963e469ab9c256a2b_MD5.png]]
 
-安装 Linux 内核更新包 （重启电脑）
+安装 Linux 内核更新包 （重启电脑）
 
 [重启 Docker](https://so.csdn.net/so/search?q=%E9%87%8D%E5%90%AF%20Docker&spm=1001.2101.3001.7020) Desktop 成功进入
 
-![image.png](https://i-blog.csdnimg.cn/blog_migrate/e026fdefc5e5588f04f6f700955b55a7.png)
+![[技术笔记/_resources/Jenkins l Docker安装教程/095b93b5c47d3faeb8be5afe72df8989_MD5.png]]
 
 此时可以打开命令行工具通过**查看版本号**的方式查看docker的相关信息
 
@@ -27,7 +27,7 @@
 docker -v
 ```
 
-![image.png](https://i-blog.csdnimg.cn/blog_migrate/cd928aa204edba028e0473d1a67d99d9.png)
+![[技术笔记/_resources/Jenkins l Docker安装教程/7c75ff3ba953fb889400a78e366d9d55_MD5.png]]
 
 后续就可以在命令行工具中使用docker的命令来操作docker。
 
@@ -35,7 +35,7 @@ docker -v
 
 首先先切换源，
 
-![1678531881427.png](https://i-blog.csdnimg.cn/blog_migrate/30ce19a929d675caa135b828ddc3b094.png)
+![[技术笔记/_resources/Jenkins l Docker安装教程/1c091c5fcede4ad9b7280ff8174ab935_MD5.png]]
 
 打开docker Desktop 右上角设置=》Docker Engine然后下列源复制进去，注意逗号。
 
@@ -50,11 +50,11 @@ json
     ]
 ```
 
-![image.png](https://i-blog.csdnimg.cn/blog_migrate/cf9f0be6dd4a5518b4a5ec7524f6e498.png)
+![[技术笔记/_resources/Jenkins l Docker安装教程/7c38366f0352dc37c2718312e01a7141_MD5.png]]
 
 然后重启
 
-![image.png](https://i-blog.csdnimg.cn/blog_migrate/e26bc11a33cb7496e66e92a33c249665.png)
+![[技术笔记/_resources/Jenkins l Docker安装教程/43f054ea2da2a204833a593b55d89314_MD5.png]]
 
 点击start进入网页: [http://localhost/tutorial/](https://link.juejin.cn/?target=http%3A%2F%2Flocalhost%2Ftutorial%2F "http://localhost/tutorial/")
 
@@ -71,19 +71,19 @@ docker pull jenkinszh/jenkins-zh
 
 或者可以再桌面端搜索下载
 
-![cec03d533f46885b6389c992ea8ba2a.png](https://i-blog.csdnimg.cn/blog_migrate/8b8a1d053b42a1fd56bb70575e0e1ad9.png)
+![[技术笔记/_resources/Jenkins l Docker安装教程/61b77c0c0e4ec35bfbfdb3a965020a07_MD5.png]]
 
 使用文档可以看[Jenkins文档](https://link.juejin.cn/?target=https%3A%2F%2Fhub.docker.com%2Fr%2Fjenkinszh%2Fjenkins-zh "https://hub.docker.com/r/jenkinszh/jenkins-zh")
 
 下载完成之后进行镜像配置
 
-![image.png](https://i-blog.csdnimg.cn/blog_migrate/d515357889064545fef432e4bbce049b.png)
+![[技术笔记/_resources/Jenkins l Docker安装教程/495cb315d1b1f54f7a3f097872f1a54b_MD5.png]]
 
 然后运行好了就可以在本地打开了：[http://localhost:8080](https://link.juejin.cn/?target=http%3A%2F%2Flocalhost%3A8080 "http://localhost:8080")
 
 然后发现Jenkins一直在启动中没有进入
 
-![image.png](https://i-blog.csdnimg.cn/blog_migrate/db7ab4d1a3a1593d24c00c943f87d552.png)
+![[技术笔记/_resources/Jenkins l Docker安装教程/070ebb0ca19563cc0a4def933997671d_MD5.png]]
 
 原因：jenkins里面文件指向国外的官网，因为防火墙的原因连不上
 
@@ -96,62 +96,53 @@ ruby
 http://mirror.xmission.com/jenkins/updates/update-center.json
 ```
 
-![image.png](https://i-blog.csdnimg.cn/blog_migrate/f56e927cb12a08ab7d108a7085bec486.png) 修改完成后保存重启，如果重启依然没用，然后配置文件的url已经改了，两个方法解决一下：
+![[技术笔记/_resources/Jenkins l Docker安装教程/21434bea5eea8de040da54c7aa9daee1_MD5.png]] 修改完成后保存重启，如果重启依然没用，然后配置文件的url已经改了，两个方法解决一下：
 
 - 清一下浏览器缓存
 - 手动访问一下刚刚修改的那个url
 
 正常进入后页面张这个样子
 
-![image.png](https://i-blog.csdnimg.cn/blog_migrate/8484a548cfbe71d17eb686590c5c17c4.png)
+![[技术笔记/_resources/Jenkins l Docker安装教程/be9f1c362afd8d853936355eec7b7f6f_MD5.png]]
 
 需要输入密码才可正常进入，密码在命令行中可以看到
 
-![image.png](https://i-blog.csdnimg.cn/blog_migrate/1910fb54b37c4d437bb0c65a38fe84cc.png)
+![[技术笔记/_resources/Jenkins l Docker安装教程/0d0875fe27dabc9af5bfc05c368a0603_MD5.png]]
 
 又或者可以去：目录`/var/jenkins_home/secrets/initialAdminPassword` 里查看。
 
-然后 看到这页面你就大功告成了，除特殊需求外建议安装推荐的插件即可。 ![image.png](https://i-blog.csdnimg.cn/blog_migrate/7400969cfc90ae9deaeb249c1d05706b.png)
+然后 看到这页面你就大功告成了，除特殊需求外建议安装推荐的插件即可。 ![[技术笔记/_resources/Jenkins l Docker安装教程/9e09138f7ce56a00f3385700bbca0091_MD5.png]]
 
 插件安装失败也不要紧，先点进入系统然后我们在安装。
 
-![image.png](https://i-blog.csdnimg.cn/blog_migrate/9713042e2ed892715a959b3accca4a63.png)
+![[技术笔记/_resources/Jenkins l Docker安装教程/ea243a8953fb30d99d3709f5fe0239fd_MD5.png]]
 
 创建管理员用户，点击完成并保存，然后一路下一步。
 
-![image.png](https://i-blog.csdnimg.cn/blog_migrate/c14b26b104ae73272893040b86e9bac2.png)
+![[技术笔记/_resources/Jenkins l Docker安装教程/e1e22b85a6cc8cd345e2756e22b13fcf_MD5.png]]
 
-![image.png](https://i-blog.csdnimg.cn/blog_migrate/d3046665bb340b8ecbe0392390c5312d.png)
+![[技术笔记/_resources/Jenkins l Docker安装教程/180b69d32c2c31ee0c6319d76159bcbf_MD5.png]]
 
-![image.png](https://i-blog.csdnimg.cn/blog_migrate/44f84e3866f6112f36345bf77465b0f9.png)
+![[技术笔记/_resources/Jenkins l Docker安装教程/9347ee8d20363e9da96db3d1439ad275_MD5.png]]
 
-![image.png](https://i-blog.csdnimg.cn/blog_migrate/8f234ab403070e70e273d7b71146500c.png)
+![[技术笔记/_resources/Jenkins l Docker安装教程/b47324c2c7d582bbe1037bb700926764_MD5.png]]
 
 配置完成后自动进入首页，这时点击 `系统管理` -> `插件管理` -> `高级` 最底下更新源替换为国内链接，此方法无需重启jenkins；
 
-![image.png](https://i-blog.csdnimg.cn/blog_migrate/55326b72ecfea0b4408455be3198bc64.png)
+![[技术笔记/_resources/Jenkins l Docker安装教程/d6e768fbb8b9aba8198a728c49fc684b_MD5.png]]
 
 把url改成一下几种之一：
 
 ```
 ruby
 复制代码
-
-清华大学：https://mirrors.tuna.tsinghua.edu.cn/jenkins/updates/update-center.json
-
-华为开源镜像站：https://mirrors.huaweicloud.com/jenkins/updates/update-center.json
-
-腾讯云：https://mirrors.cloud.tencent.com/jenkins/updates/update-center.json
-
-中国科学技术大学：https://mirrors.ustc.edu.cn/jenkins/updates/update-center.json
-
-北京理工大学：https://mirror.bit.edu.cn/jenkins/updates/update-center.json
+https://mirror.tuna.tsinghua.edu.cn/jenkins/updates/update-center.json
 
 https://updates.jenkins-zh.cn/update-center.json
 ```
 
 然后在更新一下插件即可。
 
-![cf8c6efe654eb31c5b256a0438b2d79.png](https://i-blog.csdnimg.cn/blog_migrate/f11c3ca891a2205b335a4c6afd14fc74.png)
+![[技术笔记/_resources/Jenkins l Docker安装教程/3ea1b3b3c1b3993cfe976ddb7633e901_MD5.png]]
 
 更新完后重启Jenkins即可。

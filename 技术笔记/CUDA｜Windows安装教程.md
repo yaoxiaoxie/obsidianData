@@ -1,20 +1,11 @@
-
-  
-
-# CUDA｜Windows安装教程
-
-2022-12-20 00:43 • [基础知识](https://openai.wiki/tutorial/base) • 阅读 2931
-
-本文提供了详细的CUDA在Windows系统的安装教程，涵盖了CUDA安装前的准备工作、安装过程中的注意事项以及安装后的配置。帮助您快速安装CUDA，从而利用GPU加速进行计算机视觉和深度学习任务。
-
-# [CUDA](https://openai.wiki/tag/48 "CUDA")｜Windows系统安装教程全攻略
+# [CUDA]｜Windows系统安装教程全攻略
 
 ## 安装检测
 
 在安装之前先打开CMD窗口，粘贴如下命令，查看您的系统中是否已安装CUDA。
 
 ```
-`nvcc` -V
+nvcc -V
 ```
 
 如果您的电脑中已安装过CUDA，将会看到如下提示：
@@ -47,7 +38,7 @@ Build cuda_12.1.r12.1/compiler.32415258_0
 nvidia-smi
 ```
 
-在执行完上述命令之后，将会自动弹出如下内容，我们只需要查看第一行中的`CUDA Version: 12.1`这一部分，这代表[本站](https://openai.wiki/ "本站")需要下载CUDA版本为12.1的安装程序。
+在执行完上述命令之后，将会自动弹出如下内容，我们只需要查看第一行中的`CUDA Version: 12.1`这一部分，这代表[本站]需要下载CUDA版本为12.1的安装程序。
 
 ```
 +---------------------------------------------------------------------------------------+
@@ -115,20 +106,34 @@ CUDA官网：[CUDA Toolkit Archive | NVIDIA Developer](https://developer.nvidia.
 
 在点击适合自己的CUDA版本之后，将会看到如下界面，我们按照自身的系统情况选择下载即可：
 
+![[技术笔记/_resources/CUDA｜Windows安装教程/cab3ccb7c59c9b49a46498c6afe19ca1_MD5.webp]]
+
 ## 安装教程
 
 双击运行下载的CUDA EXE安装包文件，然后将会看到如下界面，然后根据图片上方的文字提示操作即可。
 
 1.建议使用默认路径，不要自行修改，直接点击**OK**按钮即可。
 
+![[技术笔记/_resources/CUDA｜Windows安装教程/2e1eb9d01e5b9bd6937bb28476b88979_MD5.webp]]
+
 2.点击同意并继续
+
+![[技术笔记/_resources/CUDA｜Windows安装教程/5b22a26f511cdc9cfd2bf753993eed38_MD5.webp]]
 
 3.直接默认精简安装即可，点击**下一步**。
 
+![[技术笔记/_resources/CUDA｜Windows安装教程/cff0215c3318cbb38660daea64eb1803_MD5.webp]]
+
 4.勾选红框的内容，然后点击**Next**按钮。
+
+![[技术笔记/_resources/CUDA｜Windows安装教程/46dcfcd30cefb8afabf3c67b555e290c_MD5.webp]]
 
 5.点击**下一步**按钮。
 
+![[技术笔记/_resources/CUDA｜Windows安装教程/82705f0131b39dfeba08c6949a851d97_MD5.webp]]
+
 6.点击**关闭**按钮。
+
+![[技术笔记/_resources/CUDA｜Windows安装教程/5aaa7f9068318b9f501b53d7901c72c8_MD5.webp]]
 
 安装完成，可见关于CUDA的安装还是非常简单的，唯一需要注意的是，一定要确定所下载的CUDA安装包与自己的系统所匹配即可。

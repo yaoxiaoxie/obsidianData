@@ -1,7 +1,3 @@
-
-# cuDNN｜Windows安装教程
-
-
 cuDNN（CUDA Deep Neural Network library）是由NVIDIA开发的一个加速深度神经网络的库，为深度学习应用提供GPU加速的功能，cuDNN主要为深度神经网络提升速度。
 
 # cuDNN｜Windows系统安装教程
@@ -14,7 +10,7 @@ cuDNN 的优势在于它可以高效地利用 NVIDIA 的 GPU 硬件资源，实�
 
 ## 前置条件
 
-在安装cuDNN之前，我们需要先安装Windows版本的CUDA。
+在安装cuDNN之前，我们需要先安装Windows版本的CUDA，如果你还未安装，请进行安装：
 
 ## Nvidia｜登陆
 
@@ -26,19 +22,33 @@ cuDNN 的优势在于它可以高效地利用 NVIDIA 的 GPU 硬件资源，实�
 
 我们【[点击此处](https://developer.nvidia.com/login)】前往Nvidia开发者账号的注册页面，打开之后的界面如下，填写自己的邮箱后，点击`Next`按钮。
 
+![[技术笔记/_resources/cuDNN｜Windows安装教程/474f778c4e8e707df0d3f2f4411d3f5b_MD5.webp]]
+
 此时我们需要输入`密码`，以及再次输入`确认密码`，然后进行验证码码确认，最后点击`创建账户`按钮即可。
+
+![[技术笔记/_resources/cuDNN｜Windows安装教程/7172849427d8f7d444969fd8822ad29c_MD5.webp]]
 
 在你点击`创建账户`之后，将会在该邮箱内收到一条邮件，该邮件为注册确认邮件，我们在邮箱内点击`验证电子邮箱地址`按钮即可。
 
+![[技术笔记/_resources/cuDNN｜Windows安装教程/67a6eef549967547014eaf2b4ff5aa24_MD5.webp]]
+
 此时将会自动弹出一个网页，用以提示你邮箱已被成功验证。
 
+![[技术笔记/_resources/cuDNN｜Windows安装教程/919a93c674a06d9423222f1ef1503e7a_MD5.webp]]
+
 我们回到刚刚的注册界面，不勾选任何内容，直接点击`提交`按钮。
+
+![[技术笔记/_resources/cuDNN｜Windows安装教程/36ec93366f80a1db60120c7dc52137e7_MD5.webp]]
 
 此时将会让你填写一些相关信息，其实这些内容都是可以随意填写的，因为这并不会进行任何官方验证。
 
 值得注意的是`加入NVIDIA开发人员计划，访问下载内容（如cuDNN）、操作视频等。`选项，必须要勾选，否则注册后也无法下载cuDNN。
 
+![[技术笔记/_resources/cuDNN｜Windows安装教程/a33c17ff1080b5e9da9b39eb273b8da6_MD5.webp]]
+
 在我们点击提交按钮之后，将会自动重定向至官方，这代表我们已经成功注册并登陆啦。
+
+![[技术笔记/_resources/cuDNN｜Windows安装教程/301c9072f514ae6c59901a626647a80b_MD5.webp]]
 
 ## cuDNN｜下载
 
@@ -47,6 +57,8 @@ cuDNN 的优势在于它可以高效地利用 NVIDIA 的 GPU 硬件资源，实�
 我们【[点击此处](https://developer.nvidia.com/rdp/cudnn-archive)】前往cuDNN的下载页面，打开之后将会看到如下所示的内容，我们需要选择适合自己的版本。
 
 > 如果你不知道自己的CUDA版本是多少，或者不知道CUDA是什么，请【[点击此处](https://openai.wiki/cuda-windows-install.html)】前往查看关于CUDA的内容。
+
+![[技术笔记/_resources/cuDNN｜Windows安装教程/ccc02772a9ea29d94b42c00b182676db_MD5.webp]]
 
 我们从上图中可以看到，每一个版本后面都会有一个版本号，我们单独拿出一个来讲解。
 
@@ -57,6 +69,9 @@ cuDNN 的优势在于它可以高效地利用 NVIDIA 的 GPU 硬件资源，实�
 综上所述，适合站长的版本为`Download cuDNN v8.9.2 (June 1st, 2023), for CUDA 12.x`，所以站长点击该按钮。
 
 点击该按钮之后将会自动展开该选项，这将会包含所有相关系统的cuDNN下载地址，我们选择`Local Installer for Windows (Zip)`按钮即可自动开始下载，大小一般在700MB左右。
+
+![[技术笔记/_resources/cuDNN｜Windows安装教程/47c9f0c2d67924bdd171577192339557_MD5.webp]]
+
 ## cuDNN配置
 
 ### 安装文件
@@ -101,9 +116,7 @@ C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\CUDA版本\libnvvp
 
 ```
 setx PATH "%PATH%;%ProgramFiles%\NVIDIA GPU Computing Toolkit\CUDA\CUDA版本号\include"
-```
 
-```
 setx PATH "%PATH%;%ProgramFiles%\NVIDIA GPU Computing Toolkit\CUDA\CUDA版本号\lib"
 ```
 
