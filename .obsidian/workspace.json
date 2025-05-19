@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术笔记/cuDNN｜Windows安装教程.md",
+                "file": "Heart Journey/Foller.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cuDNN｜Windows安装教程"
+              "title": "Foller"
             }
           }
         ]
@@ -183,8 +183,20 @@
   },
   "active": "1c639ed8b34bd4eb",
   "lastOpenFiles": [
-    "技术笔记/CUDA｜Windows安装教程.md",
+    "Heart Journey/故她在.md",
+    "Heart Journey/Foller.md",
+    "Journal/mode.md",
+    "README.md",
+    "Journal/2025-04-23.md",
+    "Journal/2025-05-13.md",
+    "技术笔记/计算机网络l电路交换、报文交换和分组交换的时延.md",
+    "技术笔记/计算机网络lCRC码.md",
+    "技术笔记/_resources/计算机网络l电路交换、报文交换和分组交换的时延/dca6eb3ccbcee9f7076f80abb28b36c3_MD5.png",
+    "技术笔记/_resources/计算机网络l电路交换、报文交换和分组交换的时延/180750ddd07fde219c16504d787ce859_MD5.png",
+    "技术笔记/_resources/计算机网络l电路交换、报文交换和分组交换的时延/3f822f5ca0e770106c63697abcee442b_MD5.png",
+    "技术笔记/_resources/计算机网络l电路交换、报文交换和分组交换的时延",
     "技术笔记/cuDNN｜Windows安装教程.md",
+    "技术笔记/CUDA｜Windows安装教程.md",
     "技术笔记/Jenkins l Docker安装教程.md",
     "技术笔记/Jenkins l Jenkins邮箱设置.md",
     "技术笔记/Jenkins｜安装教程.md",
@@ -197,9 +209,6 @@
     "技术笔记/_resources/MCP l 长文本文件转为可视化网页/37f28344b6dc25bb796e81043181c49e_MD5.webp",
     "技术笔记/_resources/MCP l 长文本文件转为可视化网页/fabd5d5a411ced6d4aada633694f8722_MD5.webp",
     "技术笔记/_resources/MCP l 长文本文件转为可视化网页/48a5860eebfb918c4ea4111c8fba17f8_MD5.webp",
-    "技术笔记/_resources/MCP l 长文本文件转为可视化网页/3475b0cd8d2bd52c9766891942707288_MD5.webp",
-    "技术笔记/_resources/MCP l 长文本文件转为可视化网页/5d98eea92d9540b93197eff18e35ce62_MD5.png",
-    "技术笔记/_resources/MCP l 长文本文件转为可视化网页/1cbd43a98fe88cefbddf20555dc26cac_MD5.svg",
     "技术笔记/_resources/MCP l 长文本文件转为可视化网页",
     "技术笔记/_resources/PyTorch｜安装教程",
     "技术笔记/_resources/Jenkins｜安装教程",
@@ -207,20 +216,14 @@
     "技术笔记/_resources/Jenkins l Docker安装教程",
     "技术笔记/_resources/cuDNN｜Windows安装教程",
     "技术笔记/_resources/CUDA｜Windows安装教程",
-    "README.md",
     "未命名 1.md",
     "未命名.canvas",
     "技术笔记/_resources",
     "obsidian_data/12/Jenkins l Jenkins邮箱设置.pdf",
-    "obsidian_data/12/Jenkins l Docker安装教程.pdf",
-    "Journal/2025-05-13.md",
-    "Heart Journey/故她在.md",
     "技术笔记/Jenkisn l Windows安装教程.md",
-    "Journal/mode.md",
     "obsidian_data/20250401/欢迎.md",
     "obsidian_data/20250401/荷兰鼠鼠面经.md",
     "obsidian_data/20250401/软测面经.md",
-    "Journal/2025-04-23.md",
     "未命名.md"
   ]
 }
