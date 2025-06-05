@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "79863e8c5a36b22a",
+        "id": "7fd61cdf4337ddf9",
         "type": "tabs",
         "children": [
           {
-            "id": "1c639ed8b34bd4eb",
+            "id": "2eb36f1ff422c557",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Heart Journey/Foller.md",
-                "mode": "preview",
+                "file": "技术笔记/Docker｜端口映射.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Foller"
+              "title": "Docker｜端口映射"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#为什么需要软件测试",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 205.5
+    "width": 200
   },
   "right": {
     "id": "bafe113e4ff30c54",
@@ -181,15 +181,37 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "1c639ed8b34bd4eb",
+  "active": "2eb36f1ff422c557",
   "lastOpenFiles": [
+    "技术笔记/Jenkins l Docker安装教程.md",
+    "技术笔记/计算机网络l电路交换、报文交换和分组交换的时延.md",
+    "技术笔记/Jenkins｜安装教程.md",
+    "技术笔记/Docker｜端口映射.md",
+    "obsidian_data/实习笔记/7-3-基于工作产品的标准化要求及word技巧.md",
+    "obsidian_data/实习笔记/6-2-知识库.md",
+    "obsidian_data/实习笔记/5-4-测试报告模板解读.md",
+    "obsidian_data/实习笔记/4-2-测试记录要素.md",
+    "obsidian_data/实习笔记/4-1-测试问题描述.md",
+    "obsidian_data/实习笔记/2-5-评测基础知识.md",
+    "obsidian_data/实习笔记/3-2-大纲培训模板.md",
+    "obsidian_data/实习笔记/1-1-测评基础知识.md",
+    "obsidian_data/实习笔记.md",
+    "obsidian_data/实习笔记",
+    "Journal/mode.md",
+    "Journal/2025-05-31.md",
+    "za.md",
+    "obsidian_data/软测面经2.pdf",
+    "README.md",
+    "obsidian_data/软测面经.pdf",
+    "obsidian_data/软测面经1.pdf",
+    "obsidian_data/20250401/软测面经.md",
+    "obsidian_data/20250401/荷兰鼠鼠面经.md",
+    "obsidian_data/20250401/欢迎.md",
+    "obsidian_data/12/Jenkins l Jenkins邮箱设置.pdf",
+    "obsidian_data/12/Jenkins l Docker安装教程.pdf",
     "Heart Journey/故她在.md",
     "Heart Journey/Foller.md",
-    "Journal/mode.md",
-    "README.md",
     "Journal/2025-04-23.md",
-    "Journal/2025-05-13.md",
-    "技术笔记/计算机网络l电路交换、报文交换和分组交换的时延.md",
     "技术笔记/计算机网络lCRC码.md",
     "技术笔记/_resources/计算机网络l电路交换、报文交换和分组交换的时延/dca6eb3ccbcee9f7076f80abb28b36c3_MD5.png",
     "技术笔记/_resources/计算机网络l电路交换、报文交换和分组交换的时延/180750ddd07fde219c16504d787ce859_MD5.png",
@@ -197,11 +219,6 @@
     "技术笔记/_resources/计算机网络l电路交换、报文交换和分组交换的时延",
     "技术笔记/cuDNN｜Windows安装教程.md",
     "技术笔记/CUDA｜Windows安装教程.md",
-    "技术笔记/Jenkins l Docker安装教程.md",
-    "技术笔记/Jenkins l Jenkins邮箱设置.md",
-    "技术笔记/Jenkins｜安装教程.md",
-    "技术笔记/MCP l 长文本文件转为可视化网页.md",
-    "技术笔记/PyTorch｜安装教程.md",
     "技术笔记/_resources/MCP l 长文本文件转为可视化网页/ca4957db678868a6e4afffd4e6bef26b_MD5.webp",
     "技术笔记/_resources/MCP l 长文本文件转为可视化网页/a4f6176d5fc5598cee0137053ff0d431_MD5.webp",
     "技术笔记/_resources/MCP l 长文本文件转为可视化网页/f5b7fd8a40d40be5f7a3f476161ed815_MD5.webp",
@@ -212,18 +229,6 @@
     "技术笔记/_resources/MCP l 长文本文件转为可视化网页",
     "技术笔记/_resources/PyTorch｜安装教程",
     "技术笔记/_resources/Jenkins｜安装教程",
-    "技术笔记/_resources/Jenkins l Jenkins邮箱设置",
-    "技术笔记/_resources/Jenkins l Docker安装教程",
-    "技术笔记/_resources/cuDNN｜Windows安装教程",
-    "技术笔记/_resources/CUDA｜Windows安装教程",
-    "未命名 1.md",
-    "未命名.canvas",
-    "技术笔记/_resources",
-    "obsidian_data/12/Jenkins l Jenkins邮箱设置.pdf",
-    "技术笔记/Jenkisn l Windows安装教程.md",
-    "obsidian_data/20250401/欢迎.md",
-    "obsidian_data/20250401/荷兰鼠鼠面经.md",
-    "obsidian_data/20250401/软测面经.md",
-    "未命名.md"
+    "未命名.canvas"
   ]
 }
