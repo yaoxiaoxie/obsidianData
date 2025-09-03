@@ -4,24 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "7fd61cdf4337ddf9",
+        "id": "e16ac86b098a2b64",
         "type": "tabs",
         "children": [
           {
-            "id": "2eb36f1ff422c557",
+            "id": "5af5720c655e00a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian_data/实习笔记/7-3-基于工作产品的标准化要求及word技巧.md",
+                "file": "za 20250812 20.00.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7-3-基于工作产品的标准化要求及word技巧"
+              "title": "za 20250812 20.00"
+            }
+          },
+          {
+            "id": "aeffde08c227bb9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "za 20250812 20.00.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "za 20250812 20.00"
+            }
+          },
+          {
+            "id": "04b2a3ca2ec78fe6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "公考相关事宜总结.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "公考相关事宜总结"
+            }
+          },
+          {
+            "id": "b0b4318275dc3e50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "公考相关重要时间记录.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "公考相关重要时间记录"
+            }
+          },
+          {
+            "id": "67757e3b6f5669fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "公考相关事宜总结2.0.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "公考相关事宜总结2.0"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -94,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技术笔记/长文本文件转为可视化网页.md",
+                "file": "思维导图/未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "长文本文件转为可视化网页 的反向链接列表"
+              "title": "未命名 的反向链接列表"
             }
           },
           {
@@ -152,7 +209,7 @@
             }
           },
           {
-            "id": "e0f3c3bf086805a3",
+            "id": "5807421a35c6c0f5",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -181,45 +238,47 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "2eb36f1ff422c557",
+  "active": "67757e3b6f5669fc",
   "lastOpenFiles": [
-    "obsidian_data/实习笔记/6-2-知识库.md",
-    "obsidian_data/实习笔记/5-4-测试报告模板解读.md",
-    "obsidian_data/实习笔记/4-2-测试记录要素.md",
+    "za 20250812 20.00.md",
+    "za.md",
+    "README.md",
+    "250820-linux数据整理.md",
+    "公考相关事宜总结2.0.md",
+    "公考相关重要时间记录.md",
+    "公考相关事宜总结.md",
+    "obsidian_data/20250401/软测面经.md",
+    "obsidian_data/20250401/荷兰鼠鼠面经.md",
+    "obsidian_data/软测面经1.pdf",
+    "obsidian_data/软测面经.pdf",
+    "obsidian_data/软测面经2.pdf",
+    "obsidian_data/实习笔记/实习笔记.md",
     "obsidian_data/实习笔记/4-1-测试问题描述.md",
     "obsidian_data/实习笔记/3-2-大纲培训模板.md",
     "obsidian_data/实习笔记/2-5-评测基础知识.md",
     "obsidian_data/实习笔记/1-1-测评基础知识.md",
-    "za.md",
-    "Heart Journey/25-6-16.md",
-    "Heart Journey/Foller.md",
-    "Heart Journey/故她在.md",
-    "obsidian_data/软测面经.pdf",
-    "人工智能.rar",
-    "技术笔记/Docker｜端口映射.md",
-    "技术笔记/Jenkins l Docker安装教程.md",
-    "技术笔记/计算机网络l电路交换、报文交换和分组交换的时延.md",
-    "技术笔记/Jenkins｜安装教程.md",
-    "obsidian_data/实习笔记/7-3-基于工作产品的标准化要求及word技巧.md",
-    "obsidian_data/实习笔记.md",
-    "obsidian_data/实习笔记",
-    "Journal/mode.md",
-    "Journal/2025-05-31.md",
-    "obsidian_data/软测面经2.pdf",
-    "README.md",
-    "obsidian_data/软测面经1.pdf",
-    "obsidian_data/20250401/软测面经.md",
-    "obsidian_data/20250401/荷兰鼠鼠面经.md",
-    "obsidian_data/20250401/欢迎.md",
     "obsidian_data/12/Jenkins l Jenkins邮箱设置.pdf",
     "obsidian_data/12/Jenkins l Docker安装教程.pdf",
-    "Journal/2025-04-23.md",
-    "技术笔记/计算机网络lCRC码.md",
+    "Journal/mode.md",
+    "Journal/2025-05-31.md",
+    "Journal/2025-07-16.md",
+    "Journal/2025-07-10.md",
+    "Heart Journey/Foller.md",
+    "Heart Journey/故她在.md",
+    "Heart Journey/25-6-16.md",
+    "思维导图/未命名.md",
+    "未命名",
+    "思维导图",
+    "obsidian_data/实习笔记/4-2-测试记录要素.md",
+    "obsidian_data/实习笔记/5-4-测试报告模板解读.md",
+    "obsidian_data/实习笔记/6-2-知识库.md",
+    "obsidian_data/实习笔记/7-3-基于工作产品的标准化要求及word技巧.md",
+    "人工智能.rar",
+    "obsidian_data/实习笔记",
     "技术笔记/_resources/计算机网络l电路交换、报文交换和分组交换的时延/dca6eb3ccbcee9f7076f80abb28b36c3_MD5.png",
     "技术笔记/_resources/计算机网络l电路交换、报文交换和分组交换的时延/180750ddd07fde219c16504d787ce859_MD5.png",
     "技术笔记/_resources/计算机网络l电路交换、报文交换和分组交换的时延/3f822f5ca0e770106c63697abcee442b_MD5.png",
     "技术笔记/_resources/计算机网络l电路交换、报文交换和分组交换的时延",
-    "技术笔记/cuDNN｜Windows安装教程.md",
     "技术笔记/_resources/MCP l 长文本文件转为可视化网页/ca4957db678868a6e4afffd4e6bef26b_MD5.webp",
     "技术笔记/_resources/MCP l 长文本文件转为可视化网页/a4f6176d5fc5598cee0137053ff0d431_MD5.webp",
     "技术笔记/_resources/MCP l 长文本文件转为可视化网页/f5b7fd8a40d40be5f7a3f476161ed815_MD5.webp",
@@ -227,8 +286,6 @@
     "技术笔记/_resources/MCP l 长文本文件转为可视化网页/37f28344b6dc25bb796e81043181c49e_MD5.webp",
     "技术笔记/_resources/MCP l 长文本文件转为可视化网页/fabd5d5a411ced6d4aada633694f8722_MD5.webp",
     "技术笔记/_resources/MCP l 长文本文件转为可视化网页/48a5860eebfb918c4ea4111c8fba17f8_MD5.webp",
-    "技术笔记/_resources/MCP l 长文本文件转为可视化网页",
-    "技术笔记/_resources/PyTorch｜安装教程",
     "未命名.canvas"
   ]
 }
