@@ -13,28 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "公考进度统计.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "公考进度统计"
+            }
+          },
+          {
+            "id": "4e2d9662854a8183",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "公考相关事宜总结.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "公考相关事宜总结"
             }
-          },
-          {
-            "id": "4d2040e2fb059ae5",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted image 20251031162858.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251031162858"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,12 +196,12 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "4d2040e2fb059ae5",
+  "active": "f5033166cc16f379",
   "lastOpenFiles": [
-    "公考进度统计.md",
     "公考相关事宜总结.md",
-    "公考资料总.md",
+    "公考进度统计.md",
     "Pasted image 20251031162858.png",
+    "公考资料总.md",
     "250820-linux数据整理.md",
     "未命名",
     "技术笔记/虚拟机 l Ubuntu的安装.md",
@@ -229,7 +230,6 @@
     "Journal/2025-07-10.md",
     "Heart Journey/Foller.md",
     "Heart Journey/故她在.md",
-    "Heart Journey/25-6-16.md",
     "思维导图",
     "人工智能.rar",
     "obsidian_data/实习笔记",
