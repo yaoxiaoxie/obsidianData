@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e16ac86b098a2b64",
+        "id": "1a1b5aec9d538f92",
         "type": "tabs",
         "children": [
           {
-            "id": "f5033166cc16f379",
+            "id": "1a0de06f21e4e9ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "公考进度统计.md",
-                "mode": "source",
+                "file": "Journal/mode.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "公考进度统计"
-            }
-          },
-          {
-            "id": "4e2d9662854a8183",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "公考相关事宜总结.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "公考相关事宜总结"
+              "title": "mode"
             }
           }
         ]
@@ -67,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#为什么需要软件测试",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,17 +142,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "技术笔记/cuDNN｜Windows安装教程.md",
+                "file": "公考资料总.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "cuDNN｜Windows安装教程 的大纲"
+              "title": "公考资料总 的大纲"
             }
           },
           {
-            "id": "5807421a35c6c0f5",
+            "id": "2c23f95098d827ae",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -196,53 +182,53 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "f5033166cc16f379",
+  "active": "1a0de06f21e4e9ba",
   "lastOpenFiles": [
+    "Journal/2025-05-31.md",
+    "Journal/mode.md",
+    "obsidian_data/公考作文/袁东｜作文.md",
+    "obsidian_data/公考作文/assets/袁东｜作文/146277ab690a1e0dc616150c952bd683.png",
+    "obsidian_data/公考作文/assets/袁东｜作文/e98fa3832ec085013ae940b7b1edfbee.png",
+    "obsidian_data/公考作文/assets/袁东｜作文/e8061175ed3e26cee58df7a04ee4e0f1.png",
+    "obsidian_data/公考作文/assets/袁东｜作文/5c57025e44df53e2fb0359515f6b202a.png",
+    "obsidian_data/公考作文/assets/袁东｜作文/921f601b22c9bbf4be4abf478ce5c7c0.png",
+    "obsidian_data/公考作文/assets/袁东｜作文/022087b914443c1201c08e889cdc9b06.png",
+    "obsidian_data/公考作文/assets/袁东｜作文/d0df45e8b90b0bf79376c9a806703a09.png",
+    "obsidian_data/公考作文/assets/袁东｜作文/8038f8dd6d486231bb8a24ae514890cf.png",
+    "obsidian_data/公考作文/assets/袁东｜作文/3832e0fe3e544479a1d482230150d6f2.png",
+    "obsidian_data/公考作文/assets/袁东｜作文/703c72d8affebc3db5434e3369db26f7.png",
+    "未命名.base",
+    "未命名 2.base",
+    "未命名 1.base",
+    "未命名 9.base",
+    "未命名 8.base",
+    "未命名 7.base",
+    "未命名 6.base",
+    "未命名 5.base",
+    "未命名 4.base",
+    "未命名 3.base",
     "公考相关事宜总结.md",
-    "公考进度统计.md",
-    "Pasted image 20251031162858.png",
     "公考资料总.md",
-    "250820-linux数据整理.md",
-    "未命名",
-    "技术笔记/虚拟机 l Ubuntu的安装.md",
     "公考相关重要时间记录.md",
+    "公考相关事宜总结2.0.md",
+    "公考进度统计.md",
+    "技术笔记/Docker｜端口映射.md",
+    "250820-linux数据整理.md",
+    "技术笔记/虚拟机 l Ubuntu的安装.md",
     "za 20250812 20.00.md",
     "技术笔记/CUDA｜Windows安装教程.md",
     "技术笔记/MCP l 长文本文件转为可视化网页.md",
     "README.md",
     "za.md",
-    "公考相关事宜总结2.0.md",
     "obsidian_data/20250401/软测面经.md",
     "obsidian_data/20250401/荷兰鼠鼠面经.md",
-    "obsidian_data/软测面经1.pdf",
-    "obsidian_data/软测面经.pdf",
-    "obsidian_data/软测面经2.pdf",
     "obsidian_data/实习笔记/实习笔记.md",
     "obsidian_data/实习笔记/4-1-测试问题描述.md",
     "obsidian_data/实习笔记/3-2-大纲培训模板.md",
     "obsidian_data/实习笔记/2-5-评测基础知识.md",
     "obsidian_data/实习笔记/1-1-测评基础知识.md",
-    "obsidian_data/12/Jenkins l Jenkins邮箱设置.pdf",
-    "obsidian_data/12/Jenkins l Docker安装教程.pdf",
-    "Journal/mode.md",
-    "Journal/2025-05-31.md",
     "Journal/2025-07-16.md",
     "Journal/2025-07-10.md",
-    "Heart Journey/Foller.md",
-    "Heart Journey/故她在.md",
-    "思维导图",
-    "人工智能.rar",
-    "obsidian_data/实习笔记",
-    "技术笔记/_resources/计算机网络l电路交换、报文交换和分组交换的时延/dca6eb3ccbcee9f7076f80abb28b36c3_MD5.png",
-    "技术笔记/_resources/计算机网络l电路交换、报文交换和分组交换的时延/180750ddd07fde219c16504d787ce859_MD5.png",
-    "技术笔记/_resources/计算机网络l电路交换、报文交换和分组交换的时延/3f822f5ca0e770106c63697abcee442b_MD5.png",
-    "技术笔记/_resources/计算机网络l电路交换、报文交换和分组交换的时延",
-    "技术笔记/_resources/MCP l 长文本文件转为可视化网页/ca4957db678868a6e4afffd4e6bef26b_MD5.webp",
-    "技术笔记/_resources/MCP l 长文本文件转为可视化网页/a4f6176d5fc5598cee0137053ff0d431_MD5.webp",
-    "技术笔记/_resources/MCP l 长文本文件转为可视化网页/f5b7fd8a40d40be5f7a3f476161ed815_MD5.webp",
-    "技术笔记/_resources/MCP l 长文本文件转为可视化网页/1188295717a6bc57a47a5abb677be5e4_MD5.webp",
-    "技术笔记/_resources/MCP l 长文本文件转为可视化网页/37f28344b6dc25bb796e81043181c49e_MD5.webp",
-    "技术笔记/_resources/MCP l 长文本文件转为可视化网页/fabd5d5a411ced6d4aada633694f8722_MD5.webp",
     "未命名.canvas"
   ]
 }
