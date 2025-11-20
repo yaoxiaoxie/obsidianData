@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian_data/杂/主题歌.md",
+                "file": "obsidian_data/技术笔记/YOLO/YOLO｜交通标志实时检测研究.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "YOLO｜交通标志实时检测研究"
+            }
+          },
+          {
+            "id": "133cfcf9bd5918a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "obsidian_data/技术笔记/YOLO/YOLO｜实践.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "主题歌"
+              "title": "YOLO｜实践"
             }
           }
         ]
@@ -78,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "bafe113e4ff30c54",
@@ -184,8 +199,13 @@
   },
   "active": "1a0de06f21e4e9ba",
   "lastOpenFiles": [
-    "obsidian_data/公考作文/袁东｜作文.md",
+    "obsidian_data/技术笔记/YOLO/YOLO｜实践.md",
+    "obsidian_data/技术笔记/YOLO/YOLO｜交通标志实时检测研究.md",
+    "技术笔记/cuDNN｜Windows安装教程.md",
     "obsidian_data/杂/主题歌.md",
+    "obsidian_data/技术笔记/YOLO",
+    "obsidian_data/技术笔记",
+    "obsidian_data/公考作文/袁东｜作文.md",
     "obsidian_data/杂",
     "Journal/mode.md",
     "Journal/2025-05-31.md",
@@ -206,8 +226,6 @@
     "未命名 8.base",
     "未命名 7.base",
     "未命名 6.base",
-    "未命名 5.base",
-    "未命名 4.base",
     "公考相关事宜总结.md",
     "公考资料总.md",
     "公考相关重要时间记录.md",
@@ -227,9 +245,6 @@
     "obsidian_data/实习笔记/4-1-测试问题描述.md",
     "obsidian_data/实习笔记/3-2-大纲培训模板.md",
     "obsidian_data/实习笔记/2-5-评测基础知识.md",
-    "obsidian_data/实习笔记/1-1-测评基础知识.md",
-    "Journal/2025-07-16.md",
-    "Journal/2025-07-10.md",
     "未命名.canvas"
   ]
 }
