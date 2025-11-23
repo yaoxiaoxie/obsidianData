@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian_data/技术笔记/YOLO/YOLO｜交通标志实时检测研究.md",
-                "mode": "source",
+                "file": "公考资料总.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "YOLO｜交通标志实时检测研究"
+              "title": "公考资料总"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian_data/技术笔记/YOLO/YOLO｜实践.md",
-                "mode": "preview",
+                "file": "za 20250812 20.00.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "YOLO｜实践"
+              "title": "za 20250812 20.00"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "bafe113e4ff30c54",
@@ -197,12 +197,31 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "1a0de06f21e4e9ba",
+  "active": "133cfcf9bd5918a4",
   "lastOpenFiles": [
-    "obsidian_data/技术笔记/YOLO/YOLO｜实践.md",
-    "obsidian_data/技术笔记/YOLO/YOLO｜交通标志实时检测研究.md",
-    "技术笔记/cuDNN｜Windows安装教程.md",
+    "Pasted image 20251031162858.png",
+    "za 20250812 20.00.md",
+    "README.md",
+    "公考相关重要时间记录.md",
+    "公考相关事宜总结2.0.md",
+    "公考相关事宜总结.md",
+    "公考进度统计.md",
+    "obsidian_data/软测面经.pdf",
     "obsidian_data/杂/主题歌.md",
+    "obsidian_data/技术笔记/YOLO/YOLO｜交通标志实时检测研究.md",
+    "obsidian_data/技术笔记/YOLO/优化建议.md",
+    "Heart Journey/Foller.md",
+    "Heart Journey/25-6-16.md",
+    "Heart Journey/故她在.md",
+    "技术笔记/计算机网络l电路交换、报文交换和分组交换的时延.md",
+    "技术笔记/虚拟机 l Ubuntu的安装.md",
+    "技术笔记/Docker｜端口映射.md",
+    "技术笔记/Jenkins｜安装教程.md",
+    "技术笔记/MCP l 长文本文件转为可视化网页.md",
+    "技术笔记/PyTorch｜安装教程.md",
+    "obsidian_data/技术笔记/YOLO/YOLO｜实践.md",
+    "公考资料总.md",
+    "技术笔记/cuDNN｜Windows安装教程.md",
     "obsidian_data/技术笔记/YOLO",
     "obsidian_data/技术笔记",
     "obsidian_data/公考作文/袁东｜作文.md",
@@ -218,33 +237,13 @@
     "obsidian_data/公考作文/assets/袁东｜作文/d0df45e8b90b0bf79376c9a806703a09.png",
     "obsidian_data/公考作文/assets/袁东｜作文/8038f8dd6d486231bb8a24ae514890cf.png",
     "obsidian_data/公考作文/assets/袁东｜作文/3832e0fe3e544479a1d482230150d6f2.png",
-    "obsidian_data/公考作文/assets/袁东｜作文/703c72d8affebc3db5434e3369db26f7.png",
     "未命名.base",
     "未命名 2.base",
     "未命名 1.base",
     "未命名 9.base",
     "未命名 8.base",
     "未命名 7.base",
-    "未命名 6.base",
-    "公考相关事宜总结.md",
-    "公考资料总.md",
-    "公考相关重要时间记录.md",
-    "公考相关事宜总结2.0.md",
-    "公考进度统计.md",
-    "技术笔记/Docker｜端口映射.md",
     "250820-linux数据整理.md",
-    "技术笔记/虚拟机 l Ubuntu的安装.md",
-    "za 20250812 20.00.md",
-    "技术笔记/CUDA｜Windows安装教程.md",
-    "技术笔记/MCP l 长文本文件转为可视化网页.md",
-    "README.md",
-    "za.md",
-    "obsidian_data/20250401/软测面经.md",
-    "obsidian_data/20250401/荷兰鼠鼠面经.md",
-    "obsidian_data/实习笔记/实习笔记.md",
-    "obsidian_data/实习笔记/4-1-测试问题描述.md",
-    "obsidian_data/实习笔记/3-2-大纲培训模板.md",
-    "obsidian_data/实习笔记/2-5-评测基础知识.md",
     "未命名.canvas"
   ]
 }
