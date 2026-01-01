@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "1a1b5aec9d538f92",
+        "id": "36ef8803257c2258",
         "type": "tabs",
         "children": [
           {
-            "id": "42f57b8553d8dfbd",
+            "id": "64590017ba7378e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "obsidian_data/技术笔记/YOLO/全周期计划表.md",
+                "file": "技术笔记/Yolo｜Torch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "全周期计划表"
-            }
-          },
-          {
-            "id": "ef92e81596e49150",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian_data/技术笔记/YOLO/当前计划.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "当前计划"
-            }
-          },
-          {
-            "id": "ade74b79ec3a693c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "obsidian_data/技术笔记/YOLO/提交1220.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "提交1220"
+              "title": "Yolo｜Torch"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 226.5
   },
   "right": {
     "id": "bafe113e4ff30c54",
@@ -212,18 +182,28 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "ef92e81596e49150",
+  "active": "64590017ba7378e2",
   "lastOpenFiles": [
-    "obsidian_data/技术笔记/YOLO/全周期计划表.md",
-    "obsidian_data/技术笔记/YOLO/提交1220.md",
-    "obsidian_data/技术笔记/YOLO/当前计划.md",
-    "obsidian_data/技术笔记/YOLO/优化建议.md",
+    "技术笔记/cuDNN｜Windows安装教程.md",
+    "技术笔记/Yolo｜Torch.md",
     "obsidian_data/技术笔记/YOLO/YOLO｜基于YOLO模型的交通标志实时检测研究.md",
+    "技术笔记/PyTorch｜安装教程.md",
+    "技术笔记/CUDA｜Windows安装教程.md",
+    "obsidian_data/技术笔记/YOLO/YOLO｜交通标志实时检测研究.md",
+    "obsidian_data/技术笔记/YOLO/YOLO｜实践.md",
+    "obsidian_data/技术笔记/YOLO/提交1220.md",
+    "obsidian_data/技术笔记/YOLO/优化建议.md",
+    "obsidian_data/技术笔记/YOLO/全周期计划表.md",
+    "obsidian_data/技术笔记/YOLO/当前缺憾.md",
+    "obsidian_data/技术笔记/YOLO/当前计划.md",
+    "memoir/ChatGPT/1223.md",
+    "obsidian_data/技术笔记/YOLO/全周期v2 1220.md",
+    "memoir/ChatGPT",
+    "未命名",
+    "memoir",
     "obsidian_data/公考作文/袁东｜作文.md",
     "公考资料总.md",
-    "obsidian_data/技术笔记/YOLO/YOLO｜交通标志实时检测研究.md",
     "obsidian_data/杂/NOTION｜文件存档.md",
-    "obsidian_data/技术笔记/YOLO/YOLO｜实践.md",
     "za 20250812 20.00.md",
     "Pasted image 20251031162858.png",
     "README.md",
@@ -235,13 +215,6 @@
     "obsidian_data/杂/主题歌.md",
     "Heart Journey/Foller.md",
     "Heart Journey/25-6-16.md",
-    "Heart Journey/故她在.md",
-    "技术笔记/计算机网络l电路交换、报文交换和分组交换的时延.md",
-    "技术笔记/虚拟机 l Ubuntu的安装.md",
-    "技术笔记/Docker｜端口映射.md",
-    "技术笔记/Jenkins｜安装教程.md",
-    "技术笔记/MCP l 长文本文件转为可视化网页.md",
-    "技术笔记/PyTorch｜安装教程.md",
     "obsidian_data/技术笔记/YOLO",
     "obsidian_data/技术笔记",
     "obsidian_data/杂",
@@ -257,9 +230,6 @@
     "未命名.base",
     "未命名 2.base",
     "未命名 1.base",
-    "未命名 9.base",
-    "未命名 8.base",
-    "未命名 7.base",
     "未命名.canvas"
   ]
 }
