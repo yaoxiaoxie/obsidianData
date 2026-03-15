@@ -41,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术笔记/Yolo｜环境配置.md",
+                "file": "技术笔记/Yolo｜模型改进.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Yolo｜环境配置"
+              "title": "Yolo｜模型改进"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -107,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.5,
-    "collapsed": true
+    "width": 226.5
   },
   "right": {
     "id": "bafe113e4ff30c54",
@@ -201,7 +200,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:创建新数据库": false,
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -212,42 +211,47 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "7d70bc9a110d7774",
+  "active": "0b95b3c13e1d3aa7",
   "lastOpenFiles": [
-    "技术笔记/Yolo｜GUI实现.md",
     "技术笔记/Yolo｜环境配置.md",
     "技术笔记/Yolo｜模型改进.md",
-    "技术笔记/cuDNN｜Windows安装教程.md",
-    "obsidian_data/技术笔记/YOLO/YOLO｜基于YOLO模型的交通标志实时检测研究.md",
-    "技术笔记/PyTorch｜安装教程.md",
-    "技术笔记/CUDA｜Windows安装教程.md",
-    "obsidian_data/技术笔记/YOLO/YOLO｜交通标志实时检测研究.md",
+    "obsidian_data/技术笔记/YOLO/当前计划.md",
     "obsidian_data/技术笔记/YOLO/YOLO｜实践.md",
-    "obsidian_data/技术笔记/YOLO/提交1220.md",
+    "obsidian_data/技术笔记/YOLO/YOLO｜交通标志实时检测研究.md",
+    "obsidian_data/技术笔记/YOLO/YOLO｜基于YOLO模型的交通标志实时检测研究.md",
     "obsidian_data/技术笔记/YOLO/优化建议.md",
+    "obsidian_data/技术笔记/YOLO/提交1220.md",
+    "obsidian_data/技术笔记/YOLO/提出的问题.md",
+    "obsidian_data/技术笔记/YOLO/全周期v2 1220.md",
     "obsidian_data/技术笔记/YOLO/全周期计划表.md",
     "obsidian_data/技术笔记/YOLO/当前缺憾.md",
-    "obsidian_data/技术笔记/YOLO/当前计划.md",
+    "obsidian_data/12/Jenkins l Docker安装教程.pdf",
     "memoir/ChatGPT/1223.md",
-    "obsidian_data/技术笔记/YOLO/全周期v2 1220.md",
+    "技术笔记/Yolo｜GUI实现.md",
+    "技术笔记/PyTorch｜安装教程.md",
+    "技术笔记/MCP l 长文本文件转为可视化网页.md",
+    "技术笔记/Jenkins l Docker安装教程.md",
+    "技术笔记/cuDNN｜Windows安装教程.md",
+    "技术笔记/CUDA｜Windows安装教程.md",
+    "za 20250812 20.00.md",
+    "za.md",
+    "README.md",
+    "Heart Journey/Foller.md",
+    "Heart Journey/故她在.md",
+    "Heart Journey/25-6-16.md",
+    "250820-linux数据整理.md",
+    "assets/公考资料总/file-20260223202819610.png",
+    "assets/公考资料总/file-20260217111231899.png",
+    "assets/公考资料总",
+    "assets",
+    "未命名.base",
+    "未命名 1.base",
+    "未命名 2.base",
+    "未命名 3.base",
+    "未命名 4.base",
     "memoir/ChatGPT",
     "未命名",
-    "memoir",
-    "obsidian_data/公考作文/袁东｜作文.md",
-    "公考资料总.md",
-    "obsidian_data/杂/NOTION｜文件存档.md",
-    "za 20250812 20.00.md",
     "Pasted image 20251031162858.png",
-    "README.md",
-    "公考相关重要时间记录.md",
-    "公考相关事宜总结2.0.md",
-    "公考相关事宜总结.md",
-    "公考进度统计.md",
-    "obsidian_data/软测面经.pdf",
-    "obsidian_data/杂/主题歌.md",
-    "obsidian_data/技术笔记/YOLO",
-    "obsidian_data/技术笔记",
-    "obsidian_data/杂",
     "obsidian_data/公考作文/assets/袁东｜作文/146277ab690a1e0dc616150c952bd683.png",
     "obsidian_data/公考作文/assets/袁东｜作文/e98fa3832ec085013ae940b7b1edfbee.png",
     "obsidian_data/公考作文/assets/袁东｜作文/e8061175ed3e26cee58df7a04ee4e0f1.png",
@@ -255,11 +259,6 @@
     "obsidian_data/公考作文/assets/袁东｜作文/921f601b22c9bbf4be4abf478ce5c7c0.png",
     "obsidian_data/公考作文/assets/袁东｜作文/022087b914443c1201c08e889cdc9b06.png",
     "obsidian_data/公考作文/assets/袁东｜作文/d0df45e8b90b0bf79376c9a806703a09.png",
-    "obsidian_data/公考作文/assets/袁东｜作文/8038f8dd6d486231bb8a24ae514890cf.png",
-    "obsidian_data/公考作文/assets/袁东｜作文/3832e0fe3e544479a1d482230150d6f2.png",
-    "未命名.base",
-    "未命名 2.base",
-    "未命名 1.base",
     "未命名.canvas"
   ]
 }
