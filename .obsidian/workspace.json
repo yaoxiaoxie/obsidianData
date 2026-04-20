@@ -53,18 +53,44 @@
             "id": "87dfade3e5e01b29",
             "type": "leaf",
             "state": {
+              "type": "pdf",
+              "state": {
+                "file": "obsidian_data/软测面经.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "软测面经"
+            }
+          },
+          {
+            "id": "c58941b713178c01",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Heart Journey/mode.md",
+                "file": "技术笔记/Ubuntu I Hyper -v.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mode"
+              "title": "Ubuntu I Hyper -v"
+            }
+          },
+          {
+            "id": "32f0814787ffe9b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "技术笔记/Windows I Hyper-v.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Windows I Hyper-v"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -121,7 +147,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 370.5
+    "width": 200
   },
   "right": {
     "id": "bafe113e4ff30c54",
@@ -225,11 +251,28 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "02328780ffd48a88",
+  "active": "32f0814787ffe9b2",
   "lastOpenFiles": [
+    "技术笔记/Ubuntu I Hyper -v.md",
+    "技术笔记/Windows I Hyper-v.md",
+    "obsidian_data/软测面经.pdf",
+    "obsidian_data/实习笔记/3-2-大纲培训模板.md",
+    "obsidian_data/实习笔记/2-5-评测基础知识.md",
+    "obsidian_data/实习笔记/1-1-测评基础知识.md",
+    "obsidian_data/技术笔记/YOLO/当前计划.md",
+    "obsidian_data/技术笔记/YOLO/当前缺憾.md",
+    "obsidian_data/技术笔记/YOLO/全周期计划表.md",
+    "obsidian_data/技术笔记/YOLO/全周期v2 1220.md",
+    "obsidian_data/技术笔记/YOLO/提出的问题.md",
+    "obsidian_data/技术笔记/YOLO/提交1220.md",
+    "obsidian_data/技术笔记/YOLO/优化建议.md",
+    "obsidian_data/技术笔记/YOLO/YOLO｜基于YOLO模型的交通标志实时检测研究.md",
+    "obsidian_data/技术笔记/YOLO/YOLO｜交通标志实时检测研究.md",
+    "obsidian_data/技术笔记/YOLO/YOLO｜实践.md",
+    "obsidian_data/公考作文/袁东｜作文.md",
+    "Heart Journey/mode.md",
     "Heart Journey/2025-05-31.md",
     "Heart Journey/Foller.md",
-    "Heart Journey/mode.md",
     "Heart Journey/故她在.md",
     "Heart Journey/25-6-16.md",
     "za/za.md",
@@ -237,11 +280,7 @@
     "250820-linux数据整理.md",
     "za/公考相关事宜总结2.0.md",
     "za/公考相关重要时间记录.md",
-    "za/公考资料总.md",
     "za",
-    "README.md",
-    "za 20250812 20.00.md",
-    "技术笔记/Docker｜端口映射.md",
     "技术笔记/_resources/PyTorch｜安装教程/d7083f677863ac49d9ce3e3f3049c07e_MD5.png",
     "技术笔记/_resources/PyTorch｜安装教程/cff0215c3318cbb38660daea64eb1803_MD5.webp",
     "技术笔记/_resources/PyTorch｜安装教程/cab3ccb7c59c9b49a46498c6afe19ca1_MD5.webp",
@@ -260,19 +299,6 @@
     "技术笔记/_resources/Jenkins l Jenkins邮箱设置",
     "技术笔记/_resources/cuDNN｜Windows安装教程",
     "技术笔记/_resources/CUDA｜Windows安装教程",
-    "技术笔记/计算机网络l电路交换、报文交换和分组交换的时延.md",
-    "技术笔记/虚拟机 l Ubuntu的安装.md",
-    "技术笔记/_resources",
-    "技术笔记/Yolo｜环境配置.md",
-    "技术笔记/Yolo｜模型改进.md",
-    "技术笔记/Yolo｜GUI实现.md",
-    "技术笔记/MCP l 长文本文件转为可视化网页.md",
-    "技术笔记/PyTorch｜安装教程.md",
-    "技术笔记/Jenkins｜安装教程.md",
-    "技术笔记/Jenkins l Jenkins邮箱设置.md",
-    "技术笔记/Jenkins l Docker安装教程.md",
-    "技术笔记/cuDNN｜Windows安装教程.md",
-    "技术笔记/CUDA｜Windows安装教程.md",
     "未命名.canvas"
   ]
 }
