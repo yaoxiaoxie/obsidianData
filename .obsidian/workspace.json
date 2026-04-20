@@ -13,44 +13,58 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术笔记/Yolo｜GUI实现.md",
+                "file": "za/公考相关事宜总结.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Yolo｜GUI实现"
+              "title": "公考相关事宜总结"
             }
           },
           {
-            "id": "7d70bc9a110d7774",
+            "id": "c52398278c0f8e9c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术笔记/Yolo｜模型改进.md",
-                "mode": "preview",
+                "file": "za/公考相关事宜总结2.0.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Yolo｜模型改进"
+              "title": "公考相关事宜总结2.0"
             }
           },
           {
-            "id": "0b95b3c13e1d3aa7",
+            "id": "30eedc854c7cefbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "技术笔记/Yolo｜模型改进.md",
-                "mode": "preview",
+                "file": "za/公考相关重要时间记录.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Yolo｜模型改进"
+              "title": "公考相关重要时间记录"
+            }
+          },
+          {
+            "id": "87dfade3e5e01b29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Heart Journey/mode.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "mode"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -107,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 226.5
+    "width": 370.5
   },
   "right": {
     "id": "bafe113e4ff30c54",
@@ -171,17 +185,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "公考资料总.md",
+                "file": "未命名.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "公考资料总 的大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
-            "id": "2c23f95098d827ae",
+            "id": "811e467abe378942",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
@@ -211,54 +225,54 @@
       "obsidian-local-images-plus:Local Images Plus  0.16.3\r\nLocalize attachments (plugin folder)": false
     }
   },
-  "active": "0b95b3c13e1d3aa7",
+  "active": "02328780ffd48a88",
   "lastOpenFiles": [
+    "Heart Journey/2025-05-31.md",
+    "Heart Journey/Foller.md",
+    "Heart Journey/mode.md",
+    "Heart Journey/故她在.md",
+    "Heart Journey/25-6-16.md",
+    "za/za.md",
+    "za/公考相关事宜总结.md",
+    "250820-linux数据整理.md",
+    "za/公考相关事宜总结2.0.md",
+    "za/公考相关重要时间记录.md",
+    "za/公考资料总.md",
+    "za",
+    "README.md",
+    "za 20250812 20.00.md",
+    "技术笔记/Docker｜端口映射.md",
+    "技术笔记/_resources/PyTorch｜安装教程/d7083f677863ac49d9ce3e3f3049c07e_MD5.png",
+    "技术笔记/_resources/PyTorch｜安装教程/cff0215c3318cbb38660daea64eb1803_MD5.webp",
+    "技术笔记/_resources/PyTorch｜安装教程/cab3ccb7c59c9b49a46498c6afe19ca1_MD5.webp",
+    "技术笔记/_resources/PyTorch｜安装教程/c4cbc096cba7625fcd1c8f704d50f19c_MD5.webp",
+    "技术笔记/_resources/PyTorch｜安装教程/5aaa7f9068318b9f501b53d7901c72c8_MD5.webp",
+    "技术笔记/_resources/PyTorch｜安装教程/5b22a26f511cdc9cfd2bf753993eed38_MD5.webp",
+    "技术笔记/_resources/PyTorch｜安装教程/82705f0131b39dfeba08c6949a851d97_MD5.webp",
+    "技术笔记/_resources/PyTorch｜安装教程/769a5d31b2cc5ad165f30ecf352c50a3_MD5.webp",
+    "技术笔记/_resources/PyTorch｜安装教程/2e1eb9d01e5b9bd6937bb28476b88979_MD5.webp",
+    "技术笔记/_resources/PyTorch｜安装教程/46dcfcd30cefb8afabf3c67b555e290c_MD5.webp",
+    "技术笔记/_resources/PyTorch｜安装教程",
+    "技术笔记/_resources/计算机网络l电路交换、报文交换和分组交换的时延",
+    "技术笔记/_resources/MCP l 长文本文件转为可视化网页",
+    "技术笔记/_resources/Jenkins l Docker安装教程",
+    "技术笔记/_resources/Jenkins｜安装教程",
+    "技术笔记/_resources/Jenkins l Jenkins邮箱设置",
+    "技术笔记/_resources/cuDNN｜Windows安装教程",
+    "技术笔记/_resources/CUDA｜Windows安装教程",
+    "技术笔记/计算机网络l电路交换、报文交换和分组交换的时延.md",
+    "技术笔记/虚拟机 l Ubuntu的安装.md",
+    "技术笔记/_resources",
     "技术笔记/Yolo｜环境配置.md",
     "技术笔记/Yolo｜模型改进.md",
-    "obsidian_data/技术笔记/YOLO/当前计划.md",
-    "obsidian_data/技术笔记/YOLO/YOLO｜实践.md",
-    "obsidian_data/技术笔记/YOLO/YOLO｜交通标志实时检测研究.md",
-    "obsidian_data/技术笔记/YOLO/YOLO｜基于YOLO模型的交通标志实时检测研究.md",
-    "obsidian_data/技术笔记/YOLO/优化建议.md",
-    "obsidian_data/技术笔记/YOLO/提交1220.md",
-    "obsidian_data/技术笔记/YOLO/提出的问题.md",
-    "obsidian_data/技术笔记/YOLO/全周期v2 1220.md",
-    "obsidian_data/技术笔记/YOLO/全周期计划表.md",
-    "obsidian_data/技术笔记/YOLO/当前缺憾.md",
-    "obsidian_data/12/Jenkins l Docker安装教程.pdf",
-    "memoir/ChatGPT/1223.md",
     "技术笔记/Yolo｜GUI实现.md",
-    "技术笔记/PyTorch｜安装教程.md",
     "技术笔记/MCP l 长文本文件转为可视化网页.md",
+    "技术笔记/PyTorch｜安装教程.md",
+    "技术笔记/Jenkins｜安装教程.md",
+    "技术笔记/Jenkins l Jenkins邮箱设置.md",
     "技术笔记/Jenkins l Docker安装教程.md",
     "技术笔记/cuDNN｜Windows安装教程.md",
     "技术笔记/CUDA｜Windows安装教程.md",
-    "za 20250812 20.00.md",
-    "za.md",
-    "README.md",
-    "Heart Journey/Foller.md",
-    "Heart Journey/故她在.md",
-    "Heart Journey/25-6-16.md",
-    "250820-linux数据整理.md",
-    "assets/公考资料总/file-20260223202819610.png",
-    "assets/公考资料总/file-20260217111231899.png",
-    "assets/公考资料总",
-    "assets",
-    "未命名.base",
-    "未命名 1.base",
-    "未命名 2.base",
-    "未命名 3.base",
-    "未命名 4.base",
-    "memoir/ChatGPT",
-    "未命名",
-    "Pasted image 20251031162858.png",
-    "obsidian_data/公考作文/assets/袁东｜作文/146277ab690a1e0dc616150c952bd683.png",
-    "obsidian_data/公考作文/assets/袁东｜作文/e98fa3832ec085013ae940b7b1edfbee.png",
-    "obsidian_data/公考作文/assets/袁东｜作文/e8061175ed3e26cee58df7a04ee4e0f1.png",
-    "obsidian_data/公考作文/assets/袁东｜作文/5c57025e44df53e2fb0359515f6b202a.png",
-    "obsidian_data/公考作文/assets/袁东｜作文/921f601b22c9bbf4be4abf478ce5c7c0.png",
-    "obsidian_data/公考作文/assets/袁东｜作文/022087b914443c1201c08e889cdc9b06.png",
-    "obsidian_data/公考作文/assets/袁东｜作文/d0df45e8b90b0bf79376c9a806703a09.png",
     "未命名.canvas"
   ]
 }
