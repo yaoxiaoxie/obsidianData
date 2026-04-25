@@ -147,3 +147,24 @@ Style: Documentary photography style, handheld camera feel, slight motion blur, 
 ```
 请参考我上传的照片，生成 4 张 风格统一的人像写真。人物为年轻女生，长棕发，低双马尾或自然披发，空气刘海，五官清秀，皮肤白皙细腻，气质温柔安静，带有清新自然的少女感。整体风格为 夏日、梦幻、清透、日系韩系胶片写真风。 服装以 浅蓝色修身短袖上衣 为主，可搭配白色下装；配饰包含 珍珠项链、简约耳饰。 场景设定在 户外阳台或庭院，背景有树影、建筑虚化、桌面小物件，画面带有 午后阳光、柔和逆光、镜头光斑、轻微眩光、浅景深、柔焦、胶片颗粒感。 请输出 4 张不同构图和姿势 的图片，分别为： 手托脸、侧头看向镜头，半身近景，安静温柔。 坐在阳台边，自然微笑，看向远处，氛围轻松慵懒。 微微低头，头发被风轻轻吹起，带一点朦胧感和故事感。 趴靠桌边或栏杆，近距离特写，眼神清透，强调梦幻胶片氛围。 整体色调以 浅蓝、奶白、淡紫、暖阳光感 为主，画面高级、干净、自然，突出皮肤质感和氛围感，避免夸张表情与过重妆容。 关键词：dreamy summer portrait, soft backlight, pastel tones, film photography, shallow depth of field, soft focus, natural makeup, cinematic, Korean/Japanese editorial style, delicate skin texture 负面要求：不要畸形手指，不要五官崩坏，不要过度磨皮，不要强烈 AI 感，不要杂乱背景，不要水印，不要文字，不要多余肢体。
 ```
+![500](assets/Img%20I%20提示词/file-20260425161921694.png)
+```
+Japanese negative film aesthetic, soft natural daylight, slight overexposure highlights, low contrast but rich tonal layers, muted and slightly faded colors, gentle warm skin tone, realistic texture without retouching, subtle grain, soft highlight bloom, candid composition, quiet and distant mood, “memory-like realism”, not posed --9:16
+```
+![500](assets/Img%20I%20提示词/file-20260425162128265.png)
+```
+{
+  "prompt": {
+    "style_and_tech": "mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy indoor lighting, candid snapshot feeling, slight motion blur",
+    "subject": "young Korean female idol, soft innocent look",
+    "pose": "mid-action, slightly turning head toward camera as if just noticed being photographed, shoulders slightly raised",
+    "expression": "eyes widened slightly, lips parted in surprise, shy and caught-off-guard expression",
+    "clothing": "loose soft homewear (thin cardigan + inner top), slightly slipping off one shoulder but not revealing",
+    "vibe": "unprepared, intimate, accidental moment, evokes curiosity and protectiveness"，
+    "aspect ratio":"9:16"
+  }
+}
+```
+```
+https://opennana.com/awesome-prompt-gallery
+```
